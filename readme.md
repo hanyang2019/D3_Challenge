@@ -1,5 +1,6 @@
 ![d3](https://s3-us-west-2.amazonaws.com/planetargon-blog/images/2018/1118/DivingHeadfisrt.png)
 # Data Journalism and D3
+https://hanyang2019.github.io/Data_Journalism_and_D3/
 ## Background
 Use D3.js to Build a Static Scatter Plot that Displays Data Based on Users' Choice. 
 
